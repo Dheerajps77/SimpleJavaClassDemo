@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20" started-at="2018-10-01T17:25:34Z" finished-at="2018-10-01T17:25:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20" started-at="2018-10-01T17:25:34Z" finished-at="2018-10-01T17:25:34Z">
+      <class name="com.qa.selenium.JenkinsIntegrations.Class2">
+        <test-method status="PASS" signature="Test1()" name="Test1" duration-ms="9" started-at="2018-10-01T17:25:34Z" finished-at="2018-10-01T17:25:34Z">
+        </test-method>
+        <test-method status="PASS" signature="Test3()" name="Test3" duration-ms="1" started-at="2018-10-01T17:25:34Z" finished-at="2018-10-01T17:25:34Z">
+        </test-method>
+        <test-method status="PASS" signature="Test2()" name="Test2" duration-ms="0" started-at="2018-10-01T17:25:34Z" finished-at="2018-10-01T17:25:34Z">
+        </test-method>
+        <test-method status="PASS" signature="Test4()" name="Test4" duration-ms="0" started-at="2018-10-01T17:25:34Z" finished-at="2018-10-01T17:25:34Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Rahul07" name="com.qa.selenium.JenkinsIntegrations.Class2" tests="4" failures="0" timestamp="1 Oct 2018 11:55:34 GMT" time="0.02" errors="0">
+  <testcase name="Test1" time="0.009" classname="com.qa.selenium.JenkinsIntegrations.Class2"/>
+  <testcase name="Test2" time="0.0" classname="com.qa.selenium.JenkinsIntegrations.Class2"/>
+  <testcase name="Test3" time="0.001" classname="com.qa.selenium.JenkinsIntegrations.Class2"/>
+  <testcase name="Test4" time="0.0" classname="com.qa.selenium.JenkinsIntegrations.Class2"/>
+</testsuite>
